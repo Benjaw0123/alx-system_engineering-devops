@@ -1,2 +1,2 @@
 #!/bin/bash
-cd ~Benjaw0123
+cd %HOMEPATH%
